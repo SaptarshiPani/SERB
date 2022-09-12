@@ -1,6 +1,12 @@
-# SERB INAE Hackathon-2022 Finals
+Road accidents have become very common nowadays. As more and people are buying automobiles, the incidences of road accidents are just increasing day by day. Furthermore, people have also become more careless now. Artificial Intelligence and Machine Learning has progressed considerably over the past few years. Hence, we have come up with this idea to help car drivers. How will our product help the car drivers drive more smoothly?
+Drowsiness/Distraction detecting system will throw an alarm to help the driver focus while driving. A self-driving automation system will prevent accidents until the driver wakes up from his drowsiness. For example, the driver has fallen asleep while driving. Then, this system will throw an alarm for the driver to wake up quickly. But, it is not possible for the driver to drive effectively as soon as he wakes up. To focus in driving, the driver may require 10-20sec. for this 10-20sec, the car will become self-driving to prevent accidents.
+Object Detection system in the rear view of the car. Many a times, driver is not aware of objects which may be present in the parking slot of the car. The object detection system will prevent cars from getting dents. For example, the driver wants to park his car in a slot. But suppose a banner is kept in that slot, which can dent the car’s back. This system helps driver get a rear view from the car and identify if any object is present there.
+While taking a drive, the driver may not always be aware of the optimal path between his destinations. Using integrated map and shortest path algorithm, we will find the optimal route for the driver’s journey. A voice assistant will help the driver if direction of his/her path needs to be changed during his journey. For example, the driver wants to drive from Pune to Mumbai but does not know the best route. This will be a waste of both fuel and the driver’s time. This system will help driver see the most optimal path between Pune and Mumbai. While driving, suppose the driver needs to turn left. In that case, our voice assistant will instruct the driver to do so.
 
-DRIVER DROWSINESS WORKS LEFT/ NEEDS TO BE FIXED :-
+We are planning to sell the 3 features as 3 separate products. The customers will purchase the individual product on a monthly subscription basis. The cost structure of the individual products are as follows :-
+1. Advanced Drowsiness Detection cum Self-Driving Accident Prevention System = Rs.900/month
+2. Object Detection for rear car camera for dent prevention = Rs.600/month
+3. Shortest Path map cum Voice Assistant = Rs.800/month
+4. Purchasing all the products simultaneously = Rs.2000/month
 
-1) ALARM SOUND NOT PLAYING
-2) WINDOW CLOSING AFTER 30 SECONDS OF EYE CLOSE
+To sum up, we are making these products so that everyone can drive safely and easily.
